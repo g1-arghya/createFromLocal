@@ -1,0 +1,2 @@
+22/03/09 22:46:23 INFO SparkSQLDemo: Start Processing
+22/03/09 22:47:28 INFO SparkSQLDemo: [[flight_data_tbl, airline_db, null, MANAGED, false]]
